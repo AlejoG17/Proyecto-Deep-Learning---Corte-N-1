@@ -1,1 +1,0 @@
-# Proyecto-Deep-Learning---Corte-N-1
